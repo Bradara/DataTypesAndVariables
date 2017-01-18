@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F85F999-8C8A-459A-8EC2-027F435CBBEB}</ProjectGuid>
+    <ProjectGuid>{587B34DD-1293-4DB6-BB67-7A92A1838DEE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Double_Palindromes</RootNamespace>
-    <AssemblyName>Double Palindromes</AssemblyName>
+    <RootNamespace>RefactoringCode</RootNamespace>
+    <AssemblyName>RefactoringCode</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
