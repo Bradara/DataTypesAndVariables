@@ -1,3 +1,3 @@
 # DataTypesAndVariables
-First homework in SoftUni Programing Fundamentals
-Added first problem, Centuties to minutes
+<h1>First homework in SoftUni Programing Fundamentals</h1>
+<p>Added first problem, Centuties to minutes</p>
